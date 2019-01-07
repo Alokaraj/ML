@@ -6,7 +6,7 @@ import pandas as pd
  #step 1. import data
 delim = "\t"
 cols = ['Frequency', 'AngleOfAttack', 'ChordLength', 'FreeStreamVelocity', 'SuctionSideDisplacementThickness', 'ScaledSoundPressureLevel']
-df = pd.read_csv('E:\\ML class\\airfoil_self_noise.dat.txt', delimiter=delim, names=cols)
+df = pd.read_csv('airfoil_self_noise.dat.txt', delimiter=delim, names=cols)
 print(df.head())
 df.columns = ['Frequency', 'AngleOfAttack', 'ChordLength', 'FreeStreamVelocity', 'SuctionSideDisplacementThickness', 'ScaledSoundPressureLevel']
 #features = cols[:len(cols) - 1]  # df.columns [:len(df.columns) - 1]
