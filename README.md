@@ -6,3 +6,4 @@
 4.Classification using Convolutional Neural Network Model for Image Dataset to predict cat or not.
 5.Classification using Convolutional Neural Network Model for MNIST Dataset to predict the handwritten 0-9 numbers.
 6.Built an effective Chatbot Model.
+7.
