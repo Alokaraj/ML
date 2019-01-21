@@ -7,4 +7,4 @@
 5. Classification using *Convolutional Neural Network Model* for MNIST Dataset to predict the handwritten 0-9 numbers.
 6. Built an effective **Chatbot** Model.
 7. Classification using *Multinomial Naive Bayes classifier Model* for Ham & Spam dataset.
-8. **Kaggle Compitation: Titanic Disaster** using *Random Forest Classifier Model* to Predict survival. obtaines 76% score
+8. **Kaggle Compitation: Titanic Disaster** using *Random Forest Classifier Model* to Predict survival. obtained **76% score**
