@@ -8,3 +8,4 @@
 6. Built an effective **Chatbot** Model.
 7. Classification using *Multinomial Naive Bayes classifier Model* for Ham & Spam dataset.
 8. **Kaggle Compitation: Titanic Disaster** using *Random Forest Classifier Model* to Predict survival. obtained **76% score**
+9. Python Web Scraping using **Beautifulsoup** on *New York Times article* on *Trump lies* 
